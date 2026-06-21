@@ -1,3 +1,1 @@
-# entropy
-# entropy
-# entropy
+# Entropy project
